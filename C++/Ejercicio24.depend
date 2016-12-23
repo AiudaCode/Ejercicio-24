@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1475693526 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio24\main.cpp
+	<iostream>
+	"Recrear.h"
+
+1475693492 c:\users\omarm\dropbox\codeblocks proyects\ejercicio24\include\recrear.h
+	<iostream>
+
+1475693454 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio24\src\recrear.cpp
+	"Recrear.h"
+	<iostream>
+
